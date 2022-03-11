@@ -1,2 +1,3 @@
-# ejs-example
-Using EJS as a Template Engine with Express
+# EJS
+This repository was made for medium
+https://tahakocabuga.medium.com
